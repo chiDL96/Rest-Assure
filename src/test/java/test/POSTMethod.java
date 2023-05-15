@@ -20,7 +20,7 @@ public class POSTMethod {
         req.header(new Header("Content-type", "application/json; charset=UTF-8"));
 
         //Form up request body
-//        String postBoddy = "{\n" +
+//        String postBody = "{\n" +
 //                "  \"userId\": 1,\n" +
 //                "  \"id\": 1,\n" +
 //                "  \"title\": \"new title\",\n" +
